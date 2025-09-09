@@ -1,2 +1,8 @@
 # billing-Software
-A simple and efficient billing software built using Python, designed for small businesses and shops. It allows easy customization and supports multiple user applications, making it flexible for different billing needs. The software is lightweight, user-friendly, and can be adapted quickly for various domains like retail, restaurants, or services.
+billing-software/
+│── main.py           # Entry point of the software  
+│── database.py       # Database connection & queries  
+│── ui.py             # User Interface (CLI/GUI/Web)  
+│── utils.py          # Helper functions  
+│── requirements.txt  # Dependencies  
+│── README.md         # Project documentation  
